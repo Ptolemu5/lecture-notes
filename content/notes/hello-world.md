@@ -54,6 +54,11 @@ y = ax^2 + bx +c
 $$
 
 ## Image
-![](https://www.kompas.com/global/image/2020/09/08/212647970/setelah-dibangun-lagi-karena-tragedi-9-11-gedung-wtc-kini-ditinggalkan?page=1)
+![](https://asset.kompas.com/crops/2DJzbWDwuV5fAweIqEzNP66-PS0=/0x0:648x432/750x500/data/photo/2019/04/04/4006624481.jpg)
 ## Youtube
 {{< youtube K0eY7IdEnsw >}}
+
+## Animation with svg
+{{< html >}}
+<svg style="background: #eee;">
+    <rect>
