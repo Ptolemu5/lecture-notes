@@ -54,11 +54,22 @@ y = ax^2 + bx +c
 $$
 
 ## Image
-![](https://asset.kompas.com/crops/2DJzbWDwuV5fAweIqEzNP66-PS0=/0x0:648x432/750x500/data/photo/2019/04/04/4006624481.jpg)
+![](https://runsystem.id/wp-content/uploads/2022/03/medium-shot-man-with-hoodie-holding-laptop-e1646646997479.jpg)
+
 ## Youtube
 {{< youtube K0eY7IdEnsw >}}
 
-## Animation with svg
+## animation with svg
 {{< html >}}
-<svg style="background: #eee;">
-    <rect>
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rectangle with animation -->
+  <rect x="10" y="10" width="50" height="50" fill="blue">
+    <animate attributeName="width" from="50" to="150" dur="2s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="height" from="50" to="150" dur="2s" begin="0s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="blue;red;green;blue" dur="4s" begin="0s" repeatCount="indefinite" />
+  </rect>
+</svg>
+{{< /html >}}
+
+    
+
