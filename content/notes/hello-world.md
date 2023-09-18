@@ -10,7 +10,13 @@ url: "0048"
 {{< toc >}}
 
 ## Section
-## table
+## Rencana Kegiatan
+No. | Waktu | Kegiatan
+:-: | :-:| :-
+1| 04.30 | Peserta Muslim melaksanakan Sholat Subuh
+2| 05.00 | Peserta Melaksanakan Olahraga Pagi
+3| 06.30 | Peserta Melaksanakan Apel Makan Pagi
+4| 07.00 | Peserta melaksanakan Apel Pagi
 
 ## link 
 [Google](https://www.google.com)
@@ -39,4 +45,9 @@ $$
 $$
 
 $$
-x_{1,2} = \frac[{-b \pm \sqrt{n^2 - 4ac}}]
+x_{1,2} = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
+$$
+
+$$\tag{23}
+y = ax^2 + bx +c
+$$
