@@ -54,7 +54,6 @@ y = ax^2 + bx +c
 $$
 
 ## Image
-![Image Description](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdealermobilhondabanjarmasin.com%2Fmodel%2Fhonda-hr-v%2F&psig=AOvVaw326WDHXwDMW8VvqJsNIx-g&ust=1695100167932000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDvhKuys4EDFQAAAAAdAAAAABAE)
-
+![](https://www.kompas.com/global/image/2020/09/08/212647970/setelah-dibangun-lagi-karena-tragedi-9-11-gedung-wtc-kini-ditinggalkan?page=1)
 ## Youtube
 {{< youtube K0eY7IdEnsw >}}
