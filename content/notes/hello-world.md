@@ -71,5 +71,26 @@ $$
 </svg>
 {{< /html >}}
 
-    
+## complex svg
+{{< html >}}
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Rectangle with gradients -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect x="20" y="20" width="200" height="100" fill="url(#grad1)" stroke="green" stroke-width="3" />
+
+  <!-- Text element -->
+  <text x="30" y="160" font-family="Arial" font-size="24" fill="black">Complex SVG</text>
+
+  <!-- Circle with animation -->
+  <circle cx="250" cy="150" r="20" fill="orange">
+    <animate attributeName="r" from="20" to="50" dur="2s" begin="0s" repeatCount="indefinite" />
+  </circle>
+</svg>
+{{< /html >}}
 
