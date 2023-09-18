@@ -9,15 +9,19 @@ url: "0048"
 ---
 {{< toc >}}
 
+Selamat Datang! Selamat membaca informasi, dan berita terbaru dari kami,
+ ini merupakan suatu website yang sering membagikan informasi serta berita dengan baik,
+ faktual, dan terpercaya,
+ salam hangat untuk keluarga kalian, semoga selalu sehat dan bahagia.
 ## Section
 
 ## Rencana Kegiatan
 No. | Waktu | Kegiatan
 :-: | :-:| :-
-1| 04.30 | Peserta Muslim melaksanakan Sholat Subuh
-2| 05.00 | Peserta Melaksanakan Olahraga Pagi
-3| 06.30 | Peserta Melaksanakan Apel Makan Pagi
-4| 07.00 | Peserta melaksanakan Apel Pagi
+1| 04.30 | Harga Dollar terhadap Rupiah melemah
+2| 05.00 | Terjadinya bencana alam di Maroko
+3| 06.30 | Presiden Republik Indonesia siap menyambut tamu
+4| 07.00 | Pasukan Khusus dikerahkan dalam pengamanan KTT Asean
 
 ## Link 
 [Google](https://www.google.com)
