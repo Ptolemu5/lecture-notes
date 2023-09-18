@@ -1,5 +1,5 @@
 ---
-title: "hello world"
+title: "Pusat Informasi dan Pengolahan Data"
 date: 2023-09-18T10:22:00+07:00
 authors: ['Billah']
 tags: ['xx1000']
@@ -9,66 +9,35 @@ url: "0048"
 ---
 {{< toc >}}
 
-Selamat Datang! Selamat membaca informasi, dan berita terbaru dari kami,
- ini merupakan suatu website yang sering membagikan informasi serta berita dengan baik,
- faktual, dan terpercaya,
- salam hangat untuk keluarga kalian, semoga selalu sehat dan bahagia.
-## Section
+Selamat Datang! Ini merupakan web akses terbatas yang hanya bisa
+diakses oleh para agen intelijen Badan Intelijen Negara. Terdapat beberapa
+fitur yang dapat digunakan oleh para agen untuk mengumpulkan informasi, mengolah data
+dan membuat laporan yang sesuai dengan kebutuhan.
 
-## Perkejadian
-No. | Waktu | Kejadian
-:-: | :-:| :-
-1| 04.30 | Harga Dollar terhadap Rupiah melemah
-2| 05.00 | Terjadinya bencana alam di Maroko
-3| 06.30 | Presiden Republik Indonesia siap menyambut tamu
-4| 07.00 | Pasukan Khusus dikerahkan dalam pengamanan KTT Asean
+## LaTex
+Digunakan untuk menghitung peluang kemungkinan terjadinya sesuatu
 
-## Link 
-[Google](https://www.google.com)
+P(A) = n(A)/n(S)
 
-[Github](https://www.github.com)
-
-## List
-Item
- - Satu
- - Dua
-
-Item Lain
-
-Item Lain Lagi
-
-## Equation
-$$
-\mathbf{M} =
-\left[
-\begin{matrix}
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & 3 & 4 & 5 \newline
-1 & 2 & 3 & 4 & 5 \newline
-\end{matrix}
-\right]
-$$
-
-$$
-x_{1,2} = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
-$$
-
-$$\tag{23}
-y = ax^2 + bx +c
-$$
-
-## Image
-![](https://runsystem.id/wp-content/uploads/2022/03/medium-shot-man-with-hoodie-holding-laptop-e1646646997479.jpg)
-
-## Youtube
-{{< youtube K0eY7IdEnsw >}}
+## Mermaid
+{{< mermaid >}}
+flowchart LR
+    B --> I --> P --> O --> E
+    B(("Unsur Utama Keterangan"))
+    I(("Perencanaan"))
+    P(("Pengumpulan Bahan Keterangan"))
+    O(("Pengolahan"))
+    E(("Distribusi"))
+{{< /mermaid >}}
 
 ## Chart JS
+Grafik informasi yang dapat dikumpulkan dari tiap - tiap bidang per pekanan.
+
 {{< chart 90 200 >}}
 {
     type: 'bar',
     data: {
-        labels: ['2017', '2018', '2019', '2020', '2021', '2022'],
+        labels: ['Ekonomi', 'Politik', 'Internasional', 'Hiburan', 'Teknologi', 'Sosial'],
         datasets: [{
             label: 'Bar Chart',
             data: [12, 19, 18, 14, 20, 11],
@@ -104,13 +73,36 @@ $$
 }
 {{< /chart >}}
 
+## Perkejadian
+No. | Tanggal | Kejadian
+:-: | :-:| :-
+1| 17/09 | Harga Dollar terhadap Rupiah melemah
+2| 15/09 | Terjadinya bencana alam di Maroko
+3| 10/09 | Presiden Republik Indonesia siap menyambut tamu
+4| 08/09 | Pasukan Khusus dikerahkan dalam pengamanan KTT Asean
 
-## Mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+## Youtube
+{{< youtube K0eY7IdEnsw >}}
+
+## Quote Paragraph
+Jangan pernah berhenti berharap, karena dengan harapan kita bisa terus hidup
+
+## Tugas
+Dalam melaksanakan fungsi intelijen yakni LIDPAMGAL, intelijen memiliki tugas - tugas
++ Penyelidikan :
+ - Kegiatan yang dilakukan untuk mengumpulkan informasi
++ Pengamanan :
+ - Kegiatan yang dilakukan untuk mengamankan personil maupun materil
++ Penggalangan :
+ - Kegiatan yang dilakukan untuk mempengaruhi target agar bertindak sesuai dengan yang diarahkan
+
+## Image
+![](https://runsystem.id/wp-content/uploads/2022/03/medium-shot-man-with-hoodie-holding-laptop-e1646646997479.jpg)
+
+## Link 
+[Google](https://www.google.com)
+
+[Github](https://www.github.com)
 
 ## animation with svg
 {{< html >}}
@@ -123,6 +115,16 @@ graph TD;
   </rect>
 </svg>
 {{< /html >}}
+
+## List
+Item
+ - Satu
+ - Dua
+
+Item Lain
+
+Item Lain Lagi
+
 
 ## complex svg
 {{< html >}}
