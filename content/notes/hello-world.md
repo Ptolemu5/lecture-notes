@@ -15,8 +15,8 @@ Selamat Datang! Selamat membaca informasi, dan berita terbaru dari kami,
  salam hangat untuk keluarga kalian, semoga selalu sehat dan bahagia.
 ## Section
 
-## Rencana Kegiatan
-No. | Waktu | Kegiatan
+## Perkejadian
+No. | Waktu | Kejadian
 :-: | :-:| :-
 1| 04.30 | Harga Dollar terhadap Rupiah melemah
 2| 05.00 | Terjadinya bencana alam di Maroko
@@ -63,6 +63,13 @@ $$
 ## Youtube
 {{< youtube K0eY7IdEnsw >}}
 
+## Mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+
 ## animation with svg
 {{< html >}}
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
@@ -97,4 +104,6 @@ $$
   </circle>
 </svg>
 {{< /html >}}
+
+
 
